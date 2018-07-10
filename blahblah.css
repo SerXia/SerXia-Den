@@ -1,0 +1,341 @@
+----- BACKGROUND -----
+
+@media (min-width:768px) {
+body {
+background: url('https://img00.deviantart.net/bb17/i/2018/001/e/2/celestial_sphere_by_seerlight-dbyn8pv.jpg') center center fixed !important;
+background-repeat: no-repeat;
+background-size: 100%;
+color: #C3DAE8 !important;
+}
+}
+
+@media (max-width: 768px) {
+body {
+background: url('https://img00.deviantart.net/bb17/i/2018/001/e/2/celestial_sphere_by_seerlight-dbyn8pv.jpg') center center fixed !important;
+background-repeat: no-repeat;
+background-size: 100%;
+width: auto !important;
+min-width: 600px !important;
+}
+}
+
+.col-md-9.col-xs-12 {
+background: #143C54 !important;
+border: 4px double #91AFC2 !important;
+border-top: none !important;
+border-right: none !important;
+border-bottom :none !important;
+}
+
+div.container.main {
+background: #143C54 !important;
+border: 4px double #91AFC2 !important;
+border-left: none !important;
+}
+
+----- NAVIGATION -----
+
+.navbar {
+background: #143C54 !important;
+border: 1px solid #91AFC2 !important;
+border-bottom: none !important;
+border-top: none !important;
+border-right: none !important;
+box-shadow: none !important;
+font-family: 'Century Gothic';
+}
+
+.navbar li a {
+color: #FFFFFF !important;
+}
+
+.navbar li a:hover {
+background: #0F2F42 !important;
+}
+
+----- TOP BAR -----
+
+.breadcrumb {
+background: #0F2F42 !important;
+color: #C3DAE8!important;
+border: 1px solid #91AFC2 !important;
+}
+
+.feature {
+background: #0F2F42 !important;
+color: #C3DAE8!important;
+border: 1px solid #91AFC2 !important;
+}
+
+.topbar {
+background: #143C54 !important;
+color: #C3DAE8 !important;
+border: 1px solid #91AFC2 !important;
+border-top: none !important;
+border-bottom: 4px solid #91AFC2 !important;
+}
+
+.sidebar {
+background: #091B26 !important;
+color: #C3DAE8 !important;
+border: none !important;
+}
+
+.panel {
+background: none !important;
+border: none !important;
+box-shadow: none !important;
+}
+
+.chat_light {
+background: #0F2F42 !important;
+color: #C3DAE8!important;
+border: 1px solid #91AFC2 !important;
+text-align: center !important;
+}
+
+.chat_dark {
+background: #091B26 !important;
+color: #C3DAE8 !important;
+border: 1px solid #91AFC2 !important;
+text-align: center !important;
+}
+
+----- HEADERS -----
+
+h1 {
+text-align: center !important;
+color: #C3DAE8 !important;
+font-family: 'Century Gothic' !important;
+}
+
+h3 {
+text-align: center !important;
+color: #C3DAE8 !important;
+font-family: 'Century Gothic' !important;
+}
+
+----- PRIDE TABLE -----
+
+.top {
+background: #0F2F42 !important;
+color: #C3DAE8 !important;
+border: 1px solid #91AFC2 !important;
+text-align: center !important;
+font-family: 'Century Gothic' !important;
+}
+
+th {
+background: #0F2F42 !important;
+color: #C3DAE8 !important;
+border: 1px solid #91AFC2 !important;
+text-align: center !important;
+font-family: 'Century Gothic' !important;
+}
+
+.bottom {
+background: #0F2F42 !important;
+color: #C3DAE8 !important;
+border: 1px solid #91AFC2 !important;
+text-align: center !important;
+font-family: 'Century Gothic' !important;
+}
+
+.left {
+background: #0F2F42 !important;
+color: #C3DAE8 !important;
+border: 1px solid #91AFC2 !important;
+text-align: center !important;
+font-family: 'Century Gothic' !important;
+}
+
+td {
+background: #091B26 !important;
+color: #C3DAE8 !important;
+border: none !important;
+}
+
+.right_cub {
+background: #0F2F42 !important;
+}
+
+----- LINKS -----
+
+ a:link {
+color: #FFFFFF !important;
+}
+
+a:visited {
+color: #FFFFFF !important;
+}
+
+a:hover {
+color: #E0E0E0 !important;
+}
+
+----- ALERTS -----
+
+.alert-danger {
+background: #0F2F42 !important;
+color: #C3DAE8 !important;
+border: 1px solid #91AFC2 !important;
+text-align: center !important;
+}
+
+.alert-success {
+background: #0F2F42 !important;
+color: #C3DAE8 !important;
+border: 1px solid #91AFC2 !important;
+text-align: center !important;
+}
+
+.attack-won {
+background: #0F2F42 !important;
+color: #C3DAE8 !important;
+border: 1px solid #91AFC2 !important;
+text-align: center !important;
+}
+
+.attack-lost {
+background: #0F2F42 !important;
+color: #C3DAE8 !important;
+border: 1px solid #91AFC2 !important;
+text-align: center !important;
+}
+
+----- BUTTONS -----
+
+input[type="button"] {
+background: #0F2F42 !important;
+color: #C3DAE8 !important;
+border: 1px solid #91AFC2 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="submit"] {
+background: #0F2F42 !important;
+color: #C3DAE8 !important;
+border: 1px solid #91AFC2 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="text"] {
+background: #0F2F42 !important;
+color: #C3DAE8 !important;
+border: 1px solid #91AFC2 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="password"] {
+background: #0F2F42 !important;
+color: #C3DAE8 !important;
+border: 1px solid #91AFC2 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+textarea {
+background: #0F2F42 !important;
+color: #C3DAE8 !important;
+border: 1px solid #91AFC2 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+select {
+background: #0F2F42 !important;
+color: #C3DAE8 !important;
+border: 1px solid #91AFC2 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="button"]:hover {
+background: #091B26 !important;
+color: #C3DAE8 !important;
+border: 1px solid #91AFC2 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="submit"]:hover {
+background: #091B26 !important;
+color: #C3DAE8 !important;
+border: 1px solid #91AFC2 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="text"]:focus {
+background: #091B26 !important;
+color: #C3DAE8 !important;
+border: 1px solid #91AFC2 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="password"]:focus {
+background: #091B26 !important;
+color: #C3DAE8 !important;
+border: 1px solid #91AFC2 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+textarea:focus {
+background: #091B26 !important;
+color: #C3DAE8 !important;
+border: 1px solid #91AFC2 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+select:focus {
+background: #091B26 !important;
+color: #C3DAE8 !important;
+border: 1px solid #91AFC2 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+----- PROGRESS BARS -----
+
+.progress {
+background: #000000 !important;
+border: 1px solid #051B29 !important;
+}
+
+.progress div {
+color: #C3DAE8 !important;
+}
+
+.progress-bar-warning {
+background: #2C6282 !important;
+}
+
+.progress-bar-danger {
+background: #2C6282 !important;
+}
+
+.progress-bar-success {
+background: #2C6282 !important;
+}
+
+.progress-bar {
+background: #2C6282 !important;
+}
